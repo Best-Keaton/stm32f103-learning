@@ -18,6 +18,9 @@
 Objects/
 Listings/
 RTE/
+DebugConfig/
+*.dbgconf
+*.scvd
 
 # Simulation temp files
 *.pdsprj.*
@@ -25,7 +28,6 @@ RTE/
 *.csv
 *.log
 *.DSN
-*.bak
 
 # System files
 .DS_Store
