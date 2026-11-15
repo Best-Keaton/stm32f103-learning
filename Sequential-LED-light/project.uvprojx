@@ -416,9 +416,9 @@
           <GroupName>user</GroupName>
           <Files>
             <File>
-              <FileName>mian.c</FileName>
+              <FileName>main.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\user\mian.c</FilePath>
+              <FilePath>.\user\main.c</FilePath>
             </File>
           </Files>
         </Group>

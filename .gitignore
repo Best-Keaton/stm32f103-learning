@@ -15,6 +15,7 @@
 *.uvguix*
 *.uvoptx
 *.uvprojx.bak
+*.before-path-fix
 Objects/
 Listings/
 RTE/
@@ -24,6 +25,8 @@ DebugConfig/
 
 # Simulation temp files
 *.pdsprj.*
+*Autosaved*
+Project Backups/
 *.lts
 *.csv
 *.log
