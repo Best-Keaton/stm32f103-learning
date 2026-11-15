@@ -1,0 +1,29 @@
+# Keil MDK
+*.axf
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+*.crf
+*.lnp
+*.map
+*.sct
+*.dep
+*.bak
+*.uvgui*
+*.uvoptx
+*.uvprojx.bak
+Objects/
+Listings/
+RTE/
+
+# Simulation temp files
+*.pdsprj.*
+*.lts
+*.csv
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
