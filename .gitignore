@@ -12,6 +12,7 @@
 *.dep
 *.bak
 *.uvgui*
+*.uvguix*
 *.uvoptx
 *.uvprojx.bak
 Objects/
@@ -23,6 +24,8 @@ RTE/
 *.lts
 *.csv
 *.log
+*.DSN
+*.bak
 
 # System files
 .DS_Store
